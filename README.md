@@ -1,3 +1,3 @@
 # INM706-Coursework
 
-## Postgraduate students: Tamila Skakova and Elbaraa Elalami.
+## Postgraduate students: Tamila Skakova and Mohammad Esmaeeli.
